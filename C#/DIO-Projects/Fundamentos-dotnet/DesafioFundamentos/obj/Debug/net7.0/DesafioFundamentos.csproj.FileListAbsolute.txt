@@ -1,0 +1,14 @@
+D:\Code-Area\Area2code\CodeProjects_DIO\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net7.0\DesafioFundamentos.exe
+D:\Code-Area\Area2code\CodeProjects_DIO\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net7.0\DesafioFundamentos.deps.json
+D:\Code-Area\Area2code\CodeProjects_DIO\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net7.0\DesafioFundamentos.runtimeconfig.json
+D:\Code-Area\Area2code\CodeProjects_DIO\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net7.0\DesafioFundamentos.dll
+D:\Code-Area\Area2code\CodeProjects_DIO\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net7.0\DesafioFundamentos.pdb
+D:\Code-Area\Area2code\CodeProjects_DIO\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net7.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code-Area\Area2code\CodeProjects_DIO\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net7.0\DesafioFundamentos.AssemblyInfoInputs.cache
+D:\Code-Area\Area2code\CodeProjects_DIO\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net7.0\DesafioFundamentos.AssemblyInfo.cs
+D:\Code-Area\Area2code\CodeProjects_DIO\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net7.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+D:\Code-Area\Area2code\CodeProjects_DIO\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net7.0\DesafioFundamentos.dll
+D:\Code-Area\Area2code\CodeProjects_DIO\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net7.0\refint\DesafioFundamentos.dll
+D:\Code-Area\Area2code\CodeProjects_DIO\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net7.0\DesafioFundamentos.pdb
+D:\Code-Area\Area2code\CodeProjects_DIO\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net7.0\DesafioFundamentos.genruntimeconfig.cache
+D:\Code-Area\Area2code\CodeProjects_DIO\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net7.0\ref\DesafioFundamentos.dll
