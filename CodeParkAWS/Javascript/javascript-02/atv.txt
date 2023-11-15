@@ -1,0 +1,2 @@
+CSS Peek
+Esta extensão permite ao desenvolvedor visualizar de forma rápida e fácil os estilos aplicados às classes e IDs num arquivo HTML sem a necessidade de procurar elas no seu respectivo arquivo CSS. Basta manter pressionada a tecla Ctrl e passar o mouse por cima de uma classe ou um ID num arquivo HTML que um pop-up aparecerá contendo todas as estilizações aplicadas a ele(a).
