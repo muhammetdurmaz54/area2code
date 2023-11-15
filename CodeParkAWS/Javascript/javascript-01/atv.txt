@@ -1,0 +1,3 @@
+Barras laterais interativas
+Quando passa o mouse pelas miniaturas o video reproduz automaticamente
+Interatividade com a barra horizontal podendo adicionar filtros
