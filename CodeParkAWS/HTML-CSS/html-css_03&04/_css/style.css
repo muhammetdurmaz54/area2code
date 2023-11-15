@@ -1,0 +1,14 @@
+header div {
+    display: flex;
+    align-items: center;
+    gap: 2%;
+}
+header img {
+    width: 4%;
+    height: auto;
+}
+main section img {
+    width: 22%;
+    height: auto;
+    border-style: groove;
+}
