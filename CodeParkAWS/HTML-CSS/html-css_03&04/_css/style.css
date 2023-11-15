@@ -1,14 +1,37 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 header div {
     display: flex;
+    justify-content: flex-end;
     align-items: center;
-    gap: 2%;
+}
+header nav ul {
+    margin: 0;
+    padding: 0;
+    border-radius: 10%;
+    background-color: rgb(240,240,240);
+    list-style: none;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+}
+header nav ul li a {
+    text-decoration: none;
+    color: black;
 }
 header img {
     width: 4%;
     height: auto;
+    margin: 1%;
 }
 main section img {
     width: 22%;
     height: auto;
     border-style: groove;
+}
+footer {
+    text-align: center;
 }

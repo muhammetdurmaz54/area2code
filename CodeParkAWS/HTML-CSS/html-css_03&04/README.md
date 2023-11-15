@@ -10,7 +10,7 @@ A cidade do Recife é uma das mais famosas do Nordeste, ela possui diversos pont
 
  Abuse de sua criatividade para a criação da página! 
 
-# Desenvolivmento
+# Desenvolvimento
 
 ## Instruções do projeto
 
@@ -24,3 +24,9 @@ Com a página sobre o Marco Zero feita, é necessário de uma outra página e de
  ## Instruções do projeto
 
  Agora que já aprendeu as propriedades básicas da CSS, é possível aprimorar a atividade anterior aplicando estilos para a página que você já criou.
+
+ # Desenvolvimento
+
+ ## Instruções do projeto
+
+ Pratique com o jogo Flexbox Froggy e aplique as propriedades flex box na página que você criou.
