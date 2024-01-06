@@ -12,7 +12,7 @@ utilize os comandos Joins para realizar consultas nas tabelas.
 ## Resposta
 >> OBS: MariaDB
 ```
-CREATE DATABASE BancoDeDadis
+CREATE DATABASE BancoDeDados
 USE BancoDeDados
 CREATE TABLE disciplinas (
 id_disciplina INT AUTO_INCREMENT PRIMARY KEY,
