@@ -8,7 +8,7 @@ A normalização de dados é um processo realizado nas tabelas para evitar anoma
 
 ## Resposta
 
-|INDENTIFICADOR|NOME|TELEFONE|BAIRRO|NUMERO|CIDADE|ESTADO|CEP|PAIS|EMAIL|
+|IDENTIFICADOR|NOME|TELEFONE|BAIRRO|NUMERO|CIDADE|ESTADO|CEP|PAIS|EMAIL|
 |---|---|---|---|---|---|---|---|---|---
 |01|Reinaldo|68 0945-8723|Rua 10|34|São Paulo|SP|12345-000|Brasil|reinaldo@outlook.com
 |01|Reinaldo|68 8734-2343|Rua 10|34|São Paulo|SP|12345-000|Brasil|reinaldo000@gmail.com
